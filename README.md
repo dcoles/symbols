@@ -1,6 +1,8 @@
 # Symbololology
 
-<https://tabatkins.github.io/symbols>
+<https://dcoles.github.io/symbols>
+
+(Fork of <https://tabatkins.github.io/symbols>)
 
 Easy access to commonly-needed symbols that aren't on your keyboard.
 
